@@ -1,0 +1,13 @@
+{
+		"home_page_uri": "http://www.proveyourworth.net/level3/start",
+		"activate_uri": "http://www.proveyourworth.net/level3/activate?statefulhash",
+		"payload_uri": "http://www.proveyourworth.net/level3/payload",
+"data":{
+		"name": "Wilson Fernando Zapata Jaya",
+		"email": "wzapataj1@gmail.com",
+		"aboutme": "I am a Jr Backend Developer",
+		"resume_file": "https://www.linkedin.com/in/wzapataj/",
+		"code": "https://github.com/nanozbit/ProveYourWorth",
+		"image": "https://github.com/nanozbit/ProveYourWorth/blob/master/image.jpg"
+}
+}
